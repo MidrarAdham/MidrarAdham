@@ -24,7 +24,7 @@ See pinned projects below for:
 - 📫 midrar@pdx.edu
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=ofDr7n8AAAAJ&hl=en) / LinkedIn
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MidrarAdham/MidrarAdham/output/github-contribution-grid-snake.svg)
+
 ## Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
