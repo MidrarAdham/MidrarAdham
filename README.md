@@ -26,8 +26,9 @@ See pinned projects below for:
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/MidrarAdham/MidrarAdham/output/github-contribution-grid-snake.svg)
 ## Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 
 <!--
