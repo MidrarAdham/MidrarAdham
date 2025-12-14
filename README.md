@@ -22,7 +22,7 @@ See pinned projects below for:
 
 ## Contact
 - 📫 midrar@pdx.edu
-- 🔗 Google Scholar / LinkedIn (optional)
+- 🔗 Google Scholar / LinkedIn
 
 
 <!--
