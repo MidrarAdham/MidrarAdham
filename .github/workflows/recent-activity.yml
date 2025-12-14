@@ -1,0 +1,17 @@
+name: Update README with recent activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # twice per day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_USERNAME: MidrarAdham
