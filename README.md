@@ -1,5 +1,5 @@
 # Hi, I’m Midrar 👋
-
+<!-- 
 🎓 PhD researcher in Power & Energy Systems  
 🔌 Distribution systems, DER aggregation, service-oriented control  
 🧪 Large-scale simulation (GridLAB-D, OCHRE, HELICS, OpenDSS, GridAPPS-D)
@@ -19,16 +19,12 @@
 See pinned projects below for:
 - Quantized DER aggregation framework (gld-opendss-ochre-helics currently)
 - Distribution systems Load allocation
-
-## Contact
+-->
+<!--## Contact-->
 - 📫 midrar@pdx.edu
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=ofDr7n8AAAAJ&hl=en) / LinkedIn
 
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+<!--
 
 
 <!--
